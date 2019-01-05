@@ -27,3 +27,7 @@ More extras.  Yay!
 And then there was more.
 
 Some more for diff purposes.
+
+### Copyright
+
+2020 Count Cipher
