@@ -18,6 +18,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 I just put this shit here.  I don't know what's going on.
 
+Please fork this repository and then issue Pull Requests for revision.
+
 ## Extra
 
 I put this here on my own.  I'm an anarchist that way.
