@@ -32,4 +32,4 @@ Some more for diff purposes.
 
 ### Copyright
 
-2020 Count Cipher
+2020 Count Cipher. All rights reserved.
